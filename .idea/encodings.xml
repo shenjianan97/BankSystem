@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/Account.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/AccountSave.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/BankControl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/BankUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ClearUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/CloseUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/CurrentAccount.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Customer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/DepositUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/JuniorAccount.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/OpenUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/SaverAccount.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/SuspendUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/WithdrawUI.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
